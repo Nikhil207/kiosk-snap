@@ -8,7 +8,7 @@ confinement: strict
 grade: devel
 
 apps:
-  testing-kisosk-snap-nivol:
+  jingalalaoink:
     command: desktop-launch xwayland-kiosk-launch "$SNAP/electron-helloworld/electron-todo" "--no-sandbox"
 
   daemon:
