@@ -22,7 +22,7 @@ environment:
 plugs:
   browser-sandbox:
     interface: browser-support
-    allow-sandbox: true
+    
   network:
   network-bind:
   opengl:
